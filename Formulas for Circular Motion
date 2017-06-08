@@ -1,0 +1,9 @@
+Progam:ASTUFF
+Lbl A2
+ClrHome
+Menu("Circular Motion","Formulas",C1)
+Lbl C1
+Menu("Formulas","Page 1",CP1,"Page 2",CP2,"Page 3",CP3)
+Lbl Cp1
+ClrHome
+Disp "
