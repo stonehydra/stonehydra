@@ -1,0 +1,5 @@
+Progam:ASTUFF
+ClrHome
+Menu("Equilibrium","Formulas",E1)
+Lbl E1
+Menu("Formulas","Page 1",EP1,"Page 2",EP2,"Page 3",EP3)
