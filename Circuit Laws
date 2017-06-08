@@ -1,0 +1,5 @@
+Progam:ASTUFF
+ClrHome
+Menu("Circuit Laws","Formulas",CL1)
+Lbl CL1
+Menu("Formulas","Page 1",CLP1,"Page 2",CLP2,"Page 3",CLP3)
