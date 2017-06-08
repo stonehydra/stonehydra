@@ -1,0 +1,5 @@
+Progam:ASTUFF
+ClrHome
+Menu("Torque","Formulas",T1)
+Lbl T1
+Menu("Formulas","Page 1",TP1,"Page 2",TP2,"Page 3",TP3)
